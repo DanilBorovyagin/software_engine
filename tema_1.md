@@ -8,7 +8,7 @@
 -Скачайте исполняемый файл для вашей архитектуры (32-битная или 64-битная).
 -Запустите загруженный файл и следуйте инструкциям мастера установки.
 ## конец загрузки
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_2/pic/установка%202.1.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_1/pic/установка%202.1.jpg)
 
 ## вывод 
 в данном задании мы скачали консоль git для работы с репозиториями
@@ -17,7 +17,7 @@
 Настройка Git включает в себя установку базовой конфигурации, такой как имя пользователя и адрес электронной почты, а также настройку опций, связанных с отображением и поведением Git.
 
 ## Установка имени пользователя и адреса электронной почты
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_2/pic/настройка%202.2.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_1/pic/настройка%202.2.jpg)
 почта была добавлена позже из-за моей ошибки.
 редактор дял сообщений коммитов был выбран nano 
 
@@ -29,7 +29,7 @@
 инициализацию папки проекта как репозитория, в котором Git будет отслеживать историю изменений.
 
 ## Инициализация репозиторя локально:
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_2/pic/2.3.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_1/pic/2.3.jpg)
 
 ## вывод 
 Создание нового репозитория в Git включает инициализацию папки проекта, чтобы Git мог отслеживать историю изменений. Для этого мы выполнили команду git init внутри папки проекта.
@@ -41,7 +41,7 @@
 
 ## добавление одного файла и проверка статуса 
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_2/pic/2.4.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_1/pic/2.4.jpg)
 
 ## вывод 
 Подготовка файлов в Git включает использование команды git add, которая добавляет файлы в индекс для последующего коммита. Мы использовали git add с указанием пути к конкретному файлу, чтобы подготовить его к коммиту.После добавления файлов мы использовали команду git status, чтобы проверить их статус и увидеть, какие файлы были подготовлены к коммиту и какие файлы содержат неотслеживаемые изменения.
@@ -52,7 +52,7 @@
 
 ## как сделать коммит, как посмотреть коммиты.
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_2/pic/2.5.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_1/pic/2.5.jpg)
 
 ## вывод 
 
@@ -80,11 +80,11 @@
 
 ## Связывание локального репозитория с удалённым и загружаем изменения на удалённый репозиторий.
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_2/pic/2.6.2.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_1/pic/2.6.2.jpg)
 
 ## Извлечение изменений с помощью git pull
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_2/pic/2.6.3.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_1/pic/2.6.3.jpg)
 
 ## вывод 
 Для подключения к удаленному репозиторию в Git и начала работы с ним мы выполнили несколько шагов
@@ -102,9 +102,9 @@
 
 ## Создание новой ветки и переключение
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_2/pic/2.7.1.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_1/pic/2.7.1.jpg)
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_2/pic/2.7.2.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_1/pic/2.7.2.jpg)
 
 ## вывод 
 создали новую ветку командой git branch 
@@ -117,7 +117,7 @@
 
 ## просмотр изменений git fetch 
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_2/pic/2.8.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_1/pic/2.8.jpg)
 
 ## вывод
 
@@ -129,15 +129,15 @@
 
 ## Удаление файла
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_2/pic/2.9.2.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_1/pic/2.9.2.jpg)
 
 ## Удаление локальной ветки 
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_2/pic/2.9.3.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_1/pic/2.9.3.jpg)
 
 ## Удаление удалённой ветки 
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_2/pic/2.9.4.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_1/pic/2.9.4.jpg)
 
 ## Вывод 
 
@@ -150,7 +150,7 @@
 
 ## git log
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_2/pic/2.10.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_1/pic/2.10.jpg)
 
 ## Вывод 
 
@@ -162,7 +162,7 @@
 
 ## Сброс до предыдущего коммита (с потерей)
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_2/pic/2.12.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_1/pic/2.12.jpg)
 
 ## Выыод 
 
@@ -175,7 +175,7 @@
 
 ## исправление последнего коммита
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_2/pic/2.13.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_1/pic/2.13.jpg)
 
 ## вывод
 
@@ -193,7 +193,7 @@
 
 ## создание gitignore по шаблону
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_2/pic/2.15.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_1/pic/2.15.jpg)
 
 ## Вывод 
 
