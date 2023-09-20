@@ -1,0 +1,6 @@
+word=input("Ведите слово для обработки:")
+print("вы ввели слово:" + word)
+cap_word=word.capitalize()
+print("регистр был изменён:" + cap_word)
+len_word=len(word)
+print("кол-во символов:" + str(len_word))
