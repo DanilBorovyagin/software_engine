@@ -37,7 +37,7 @@ good()
 ```
 ### Результат.
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_4/lab_4/1.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_4/lab_4/1.jpg)
 
 ## Выводы
 
@@ -72,7 +72,7 @@ else:
 
 ### Результат.
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_4/lab_4/2.1.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_4/lab_4/2.1.jpg)
 
 ## Выводы
 
@@ -104,7 +104,7 @@ print(an1)
 
 ### Результат.
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_4/lab_4/3.1.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_4/lab_4/3.1.jpg)
 
 ## Выводы
 
@@ -141,7 +141,7 @@ if __name__ == "__main__":
 ```
 ### Результат.
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_4/lab_4/4.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_4/lab_4/4.jpg)
  
 ## Выводы
 
@@ -171,7 +171,7 @@ if __name__ == "__main__":
 
 ### Результат.
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_4/lab_4/5.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_4/lab_4/5.jpg)
 
 ## Выводы
 
@@ -203,7 +203,7 @@ if __name__ == "__main__":
 
 ### Результат.
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_4/lab_4/6.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_4/lab_4/6.jpg)
 
 ## Выводы
 
@@ -228,7 +228,7 @@ def say():
 
 ### Результат.
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_4/lab_4/7.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_4/lab_4/7.jpg)
 
 ## Выводы
 
@@ -255,7 +255,7 @@ if __name__ == "__main__":
 
 ### Результат.
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_4/lab_4/8.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_4/lab_4/8.jpg)
 
 ## Выводы
 
@@ -301,7 +301,7 @@ dat()
 
 ### Результат.
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_4/lab_4/9.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_4/lab_4/9.jpg)
 
 ## Выводы
 
@@ -342,11 +342,11 @@ print(f"Площадь фигуры: {result}")
 
 ### Результат 1.
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_4/lab_4/10.1.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_4/lab_4/10.1.jpg)
 
 ### Результат 2.
  
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_4/lab_4/10.2.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_4/lab_4/10.2.jpg)
 
 
 ## Вывод
@@ -385,7 +385,7 @@ if __name__ == "__main__":  # Условие, которое проверяет, является ли данный мод
 
 ### Результат.
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_4/tema_4/1.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_4/tema_4/1.jpg)
 
 ## Вывод
  
@@ -423,15 +423,15 @@ if __name__ == "__main__":
 
 ### Результат.
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_4/tema_4/2.1.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_4/tema_4/2.1.jpg)
 
 ### Результат.
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_4/tema_4/2.2.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_4/tema_4/2.2.jpg)
 
 ### Результат.
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_4/tema_4/2.3.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_4/tema_4/2.3.jpg)
 
 
 ## Вывод
@@ -455,7 +455,7 @@ for i in range(5):
 
 ### Результат.
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_4/tema_4/3.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_4/tema_4/3.jpg)
 
 ## Вывод
 
@@ -530,7 +530,7 @@ print("Площадь ровна: ", tria)
 
 ### Результат.
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_4/tema_4/5.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_4/tema_4/5.jpg)
 
 ## Вывод
 
