@@ -72,7 +72,7 @@ else:
 
 ### Результат.
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_4/lab_4/2.1.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_4/lab_4/2.jpg)
 
 ## Выводы
 
@@ -104,7 +104,7 @@ print(an1)
 
 ### Результат.
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_4/lab_4/3.1.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_4/lab_4/3.jpg)
 
 ## Выводы
 
