@@ -496,7 +496,8 @@ print(updete_3)
 
 ### Результат.
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/тема_5/tema_5/4.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_5/tema_5/4.jpg)
+
 
 ## Вывод
 
