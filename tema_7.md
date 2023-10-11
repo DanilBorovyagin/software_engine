@@ -439,6 +439,8 @@ else:
 
 ![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_7/tema_7/5.2.jpg)
 
+### Результат.
+
 ![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_7/tema_7/5.3.jpg)
 
 ![Меню]
