@@ -391,8 +391,7 @@ else:
 
 ![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_6/tema_6/5.3.jpg)
 
-![Меню]
-(https://github.com/DanilBorovyagin/software_engine/blob/Тема_6/tema_6/5.4.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_6/tema_6/5.4.jpg)
 
 ## Вывод
 
