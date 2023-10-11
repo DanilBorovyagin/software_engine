@@ -443,7 +443,7 @@ else:
 
 ![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_7/tema_7/5.3.jpg)
 
-### Результат.
+## доп скрины
 
 ![скрин]
 (https://github.com/DanilBorovyagin/software_engine/blob/Тема_7/tema_7/6.1.jpg)
