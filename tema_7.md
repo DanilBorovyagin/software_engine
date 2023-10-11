@@ -444,13 +444,11 @@ else:
 ![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_7/tema_7/5.3.jpg)
 
 
-![Меню]
-(6.1.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_7/tema_7/6.1.jpg)
 
 ### Результат.
 
-![Меню]
-(6.2.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_7/tema_7/6.2.jpg)
 
 
 ## Вывод
