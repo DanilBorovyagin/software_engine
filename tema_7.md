@@ -443,10 +443,10 @@ else:
 
 ![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_7/tema_7/5.3.jpg)
 
-![Меню]
+![скрин]
 (https://github.com/DanilBorovyagin/software_engine/blob/Тема_7/tema_7/5.4.jpg)
 
-![Меню]
+![скрин]
 (https://github.com/DanilBorovyagin/software_engine/blob/Тема_7/tema_7/5.5.jpg)
 
 
