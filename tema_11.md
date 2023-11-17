@@ -145,7 +145,7 @@ for i in counter:
 
 ### Результат.
 
-![Меню]()
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_11/lab_11/5.jpg)
 
 ## Выводы
 
