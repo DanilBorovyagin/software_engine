@@ -212,7 +212,7 @@ for num in fibon:
 
 ### Результат.
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_11/tema_11/1.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_11/tema_11/2.jpg)
 
 ## Листинг
 
