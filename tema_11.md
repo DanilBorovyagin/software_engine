@@ -64,7 +64,7 @@ for i in counter:
 
 ### Результат.
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_10/lab_11/2.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_11/lab_11/2.jpg)
 
 ## Вывод
 
@@ -94,7 +94,7 @@ print("слудующий элемент списка - ", next(iterator))
 
 ### Результат.
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_10/lab_11/3.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_11/lab_11/3.jpg)
 
 ## Вывод
 
@@ -119,7 +119,7 @@ for i in b:
 
 ### Результат.
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_10/lab_11/4.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_11/lab_11/4.jpg)
  
 ## Выводы
 
@@ -145,7 +145,7 @@ for i in counter:
 
 ### Результат.
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_10/lab_11/5.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_11/lab_11/5.jpg)
 
 ## Выводы
 
