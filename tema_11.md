@@ -28,7 +28,7 @@ for i in num:
 
 ### Результат.
 
-![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_10/lab_11/1.jpg)
+![Меню](https://github.com/DanilBorovyagin/software_engine/blob/Тема_11/lab_11/1.jpg)
 
 ## Выводы
 
